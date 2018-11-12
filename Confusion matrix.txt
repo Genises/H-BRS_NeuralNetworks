@@ -1,0 +1,11 @@
+Stradified k fold
+
+GradSearch to find best parameters
+solver=adam
+ax=iter=300
+
+f1 score(because of unbalanced data sets)
+Library: sklearn
+
+
+data argumentation? --> Next monday
