@@ -1,0 +1,1 @@
+data = parsespectrallines("\Archiv\Fleisch.xls")
