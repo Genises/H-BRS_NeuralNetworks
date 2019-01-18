@@ -2,5 +2,7 @@
 NN_MeierJonas_29.10.2018_old.ipynb
 *.bk
 
-#Data is too large
+##Data is too large
 **/Data/*.csv
+
+**/iaprtc12/
